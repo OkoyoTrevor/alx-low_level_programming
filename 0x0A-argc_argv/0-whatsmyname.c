@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * @argc: argument count
+ * main - Prints name of the programme
+ * @argc: number of arguments
  * @argv: array of argumrnts
- *
  * Return: 0
  */
 
